@@ -15,17 +15,14 @@ td img{
 td,th{
     color: white;
 }
-table{
-    margin-top: 4%;
+.tabl1{
+    width: 90%;
+    margin-left: 5%;
+    border-collapse: collapse;
 }
 input{
     width: 40%;
     flex-direction: row;
     margin-left: 6%;
     padding: 2%;
-}
-#tab1{
-    width: 90%;
-    margin-left: 5%;
-    
 }
